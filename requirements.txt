@@ -1,3 +1,8 @@
-matplotlib
 pandas
-seaborn
+zipfile36
+os
+matplotlib
+re
+wordcloud
+sklearn
+warnings
